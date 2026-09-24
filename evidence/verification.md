@@ -7,4 +7,11 @@
 - Actual Chromium browser at localhost loads and renders the character. Selecting Sprint produces the running pose; selecting Fall ends in the lying pose. No warning/error console entries in these checks.
 - Verification is a coursework demo check, not exhaustive compatibility testing. Desktop pointer controls are the primary target.
 
-Public deployment verification is recorded after the GitHub Pages build completes.
+## Public deployment
+
+- GitHub Pages [build 36021592233](https://github.com/Avocadough/ember-motion-atelier/actions/runs/36021592233): completed, success.
+- Public URL: https://avocadough.github.io/ember-motion-atelier/
+- Public URL loads and visibly renders Ember in the browser, with no warning/error console entries. Sprint selection and Pause were also exercised on the public build.
+- Local Web UI checks additionally exercised 0.5× speed selection, timeline scrubbing while paused, and camera orbit. The changed pose and side view were visually verified.
+- Local and public `index.pck` SHA-256: `44D9EE2915B3BA0B48C358C38136F71F79417F96B60AD7583C859C22E0053C53`.
+- Screenshots: `ember-idle.png`, `ember-sprint.png`, `ember-public.png`.

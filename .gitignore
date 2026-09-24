@@ -6,3 +6,5 @@ evidence/*.log
 evidence/upstream-former-readme.md
 docs/*.import
 evidence/*.import
+evidence/public-index.pck
+evidence/pages-settings.json
