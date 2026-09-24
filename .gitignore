@@ -1,0 +1,8 @@
+.godot/
+*.blend1
+Assets/Animations/MeleeLib.res
+Assets/Animations/DemoMelee.res
+evidence/*.log
+evidence/upstream-former-readme.md
+docs/*.import
+evidence/*.import
