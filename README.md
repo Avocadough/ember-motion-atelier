@@ -1,4 +1,20 @@
-# EMBER — Motion Atelier
+# Ember — Motion Atelier
+
+A 3D character and animation showcase for Exercise 6: an editable Blender model and a Godot scene using the supplied Mixamo Melee animation library.
+
+[Open the browser demo](https://avocadough.github.io/ember-motion-atelier/) · [Editable model](Source/Ember.blend) · [Third-party credits](THIRD_PARTY.md) · [Verification notes](evidence/verification.md)
+
+Choose among 12 animations, control playback and inspect the character with the camera. This is an animation showcase, not an exploration game. A fresh local clone needs the pinned animation library fetched and prepared before opening the Godot project; the steps and licensing details are below.
+
+| Explore the project | Contents |
+| --- | --- |
+| [Source/Ember.blend](Source/Ember.blend), [Assets/Character/](Assets/Character/) | Editable character and Godot-ready model |
+| [Scenes/](Scenes/), [Scripts/](Scripts/) | Showcase scene, camera, controls and animation mapping |
+| [Tools/](Tools/), [docs/](docs/) | Preparation and validation scripts; Web export |
+
+---
+
+## รายละเอียดโครงการ (ภาษาไทย)
 
 เดโมตัวละคร 3D สำหรับแบบฝึกหัดที่ 6: สร้างโมเดลใน **Blender** และนำ **Mixamo Godot Animation Library (Melee)** มาใช้ใน **Godot**
 
