@@ -1,8 +1,15 @@
-# Ember — Motion Atelier
+<div align="center">
+  <h1>Ember — Motion Atelier</h1>
+  <p>A 3D character and animation showcase.</p>
+  <p>
+    <img src="https://img.shields.io/badge/Godot-4.7.2-478CBF" alt="Godot 4.7.2">
+    <img src="https://img.shields.io/badge/Blender-5.2.2-E87D0D" alt="Blender 5.2.2">
+  </p>
+  <p><a href="https://avocadough.github.io/ember-motion-atelier/">Open the browser demo</a> &nbsp;·&nbsp; <a href="https://github.com/Avocadough/ember-motion-atelier/blob/main/Source/Ember.blend">Editable model</a> &nbsp;·&nbsp; <a href="https://github.com/Avocadough/ember-motion-atelier/blob/main/THIRD_PARTY.md">Third-party credits</a> &nbsp;·&nbsp; <a href="https://github.com/Avocadough/ember-motion-atelier/blob/main/evidence/verification.md">Verification notes</a></p>
+</div>
 
 A 3D character and animation showcase for Exercise 6: an editable Blender model and a Godot scene using the supplied Mixamo Melee animation library.
 
-[Open the browser demo](https://avocadough.github.io/ember-motion-atelier/) · [Editable model](Source/Ember.blend) · [Third-party credits](THIRD_PARTY.md) · [Verification notes](evidence/verification.md)
 
 Choose among 12 animations, control playback and inspect the character with the camera. This is an animation showcase, not an exploration game. A fresh local clone needs the pinned animation library fetched and prepared before opening the Godot project; the steps and licensing details are below.
 
